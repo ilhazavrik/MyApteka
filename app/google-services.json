@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "803371612534",
+    "firebase_url": "https://apteka-d31e3-default-rtdb.firebaseio.com",
+    "project_id": "apteka-d31e3",
+    "storage_bucket": "apteka-d31e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803371612534:android:dbaa9c50f3377349a0a257",
+        "android_client_info": {
+          "package_name": "com.example.myapteka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwGs-LQSjvgM58yHqzsahWUKfONTmTRac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
